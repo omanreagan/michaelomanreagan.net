@@ -1,0 +1,40 @@
+baseURL = "https://michaelomanreagan.net/"
+languageCode = "en-us"
+title = "Michael P. Oman-Reagan"
+subtitle = "Interdisciplinary Anthropologist (M.A., PhDc)"
+copyright = "© Michael P. Oman-Reagan, 2026."
+
+theme = "mor"
+
+[params]
+  role = "Interdisciplinary Anthropologist"
+  description = "Interdisciplinary Anthropologist (M.A., PhDc)"
+  footerNote = "Research supported by SSHRC/CRSH."
+
+[menus]
+  [[menus.main]]
+    name = "Latest News"
+    pageRef = "/"
+    weight = 10
+  [[menus.main]]
+    name = "About"
+    pageRef = "/about"
+    weight = 20
+  [[menus.main]]
+    name = "Publications"
+    pageRef = "/publications"
+    weight = 30
+  [[menus.main]]
+    name = "Projects"
+    pageRef = "/projects"
+    weight = 40
+  [[menus.main]]
+    name = "Contact"
+    pageRef = "/contact"
+    weight = 50
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -1,0 +1,6 @@
+<footer>
+  <p>{{ .Site.Copyright }}</p>
+  {{ with .Site.Params.footerNote }}
+  <p>{{ . }}</p>
+  {{ end }}
+</footer>
