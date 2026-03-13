@@ -14,6 +14,8 @@
   --bg: #e0e2db;
   --border: #a8a5a0;
   --border-light: #bfbdb8;
+  --day-active: #2d5a27;
+  --night-active: #c8a84b;
   --max-width: 680px;
   --mono: 'IBM Plex Mono', 'SF Mono', 'Consolas', monospace;
   --sans: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, sans-serif;
@@ -257,6 +259,63 @@ footer {
   letter-spacing: 0.02em;
 }
 footer p { margin-bottom: 0.2rem; }
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="day"]) {
+    --text: #e8eae3;
+    --text-secondary: #9a9c96;
+    --text-receding: #666860;
+    --link: #6a9fae;
+    --link-hover: #8bbfcc;
+    --bg: #1a1c18;
+    --border: #3a3c38;
+    --border-light: #2e302c;
+    --day-active: #2d5a27;
+    --night-active: #c8a84b;
+  }
+  :root:not([data-theme="day"]) .photo-interrupt,
+  :root:not([data-theme="day"]) .photo-interrupt-secondary {
+    filter: grayscale(20%) contrast(0.9) brightness(0.85);
+  }
+}
+
+:root[data-theme="night"] {
+  --text: #e8eae3;
+  --text-secondary: #9a9c96;
+  --text-receding: #666860;
+  --link: #6a9fae;
+  --link-hover: #8bbfcc;
+  --bg: #1a1c18;
+  --border: #3a3c38;
+  --border-light: #2e302c;
+  --day-active: #2d5a27;
+  --night-active: #c8a84b;
+}
+:root[data-theme="night"] .photo-interrupt,
+:root[data-theme="night"] .photo-interrupt-secondary {
+  filter: grayscale(20%) contrast(0.9) brightness(0.85);
+}
+
+/* Theme toggle */
+.theme-toggle-item {
+  margin-left: auto;
+}
+.theme-toggle {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  font-family: var(--mono);
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  letter-spacing: 0.03em;
+  transition: color 0.2s;
+}
+.theme-toggle:hover { color: var(--text); }
+.theme-active-day { color: var(--day-active); }
+.theme-active-night { color: var(--night-active); }
+.theme-inactive { color: var(--text-receding); }
 
 /* Responsive adjustments */
 @media (max-width: 600px) {

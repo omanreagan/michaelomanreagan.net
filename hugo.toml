@@ -13,7 +13,7 @@ theme = "mor"
 
 [menus]
   [[menus.main]]
-    name = "Latest News"
+    name = "news"
     pageRef = "/"
     weight = 10
   [[menus.main]]
@@ -33,6 +33,8 @@ theme = "mor"
     pageRef = "/contact"
     weight = 50
 
+
+[taxonomies]
 
 [markup]
   [markup.goldmark]

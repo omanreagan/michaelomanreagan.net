@@ -21,5 +21,35 @@
     </article>
   </main>
   {{ partial "footer.html" . }}
+  <script>
+    (function() {
+      var btn = document.getElementById('theme-toggle');
+      var root = document.documentElement;
+
+      function getSystemTheme() {
+        return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'night' : 'day';
+      }
+
+      function applyTheme(theme) {
+        root.setAttribute('data-theme', theme);
+        if (theme === 'night') {
+          btn.innerHTML = '<span class="theme-inactive">DAY</span>  <span class="theme-active-night">[NIGHT]</span>';
+        } else {
+          btn.innerHTML = '<span class="theme-active-day">[DAY]</span>  <span class="theme-inactive">NIGHT</span>';
+        }
+      }
+
+      var saved = localStorage.getItem('theme');
+      var active = saved || getSystemTheme();
+      applyTheme(active);
+
+      btn.addEventListener('click', function() {
+        var current = root.getAttribute('data-theme');
+        var next = current === 'night' ? 'day' : 'night';
+        localStorage.setItem('theme', next);
+        applyTheme(next);
+      });
+    })();
+  </script>
 </body>
 </html>
