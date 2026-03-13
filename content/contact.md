@@ -11,4 +11,4 @@ Vanier Scholar & PhD Candidate, Memorial University, St. John's, NL Canada
 
 [SocArXiv / OSF](https://osf.io/user/69gxw) &nbsp;|&nbsp; [ORCID](http://orcid.org/0000-0001-8380-0908) &nbsp;|&nbsp; [arXiv](http://arxiv.org/a/omanreagan_m_1) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/omanreagan/)
 
-<div class="photo-interrupt clip-right"><img src="/images/gb-026.jpg" alt="" style="height: 250px; object-position: 50% 60%;"></div>
+<div class="photo-interrupt clip-right"><img src="/images/gb-026.jpg" alt="Sunny daytime photograph of a security checkpoint at the Green Bank Observatory. A red and white striped barrier arm crosses the road beside warning signs and a concrete equipment block. A large radio telescope stands to the right above rolling forested mountains. A red fire hydrant occupies the foreground." style="height: 250px; object-position: 50% 60%;"></div>

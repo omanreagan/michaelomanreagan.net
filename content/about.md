@@ -10,6 +10,6 @@ He is an alumnus of [AFS Intercultural Programs](http://www.afs.org/) (Nykøbing
 
 **Research Areas:** Space, Futures, the Interstellar, Astrobiology, the Search for Extraterrestrial Intelligence (SETI), Speculative Fiction, Social Movements, Activism, Social Media, New Religions.
 
-<div class="photo-interrupt clip-right"><img src="/images/gb-021.jpg" alt="" style="height: 230px; object-position: 45% 55%;"></div>
+<div class="photo-interrupt clip-right"><img src="/images/gb-021.jpg" alt="Close upward view of the Robert C. Byrd Green Bank Telescope dish from directly below, shot on an overcast day with bright diffuse light. The dish's geometric mesh of steel panels and triangular supports fills the frame, the structure softening and losing definition toward the edges as it dissolves into the pale foggy sky." style="height: 230px; object-position: 45% 55%;"></div>
 
 

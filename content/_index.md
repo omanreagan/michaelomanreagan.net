@@ -2,7 +2,7 @@
 title: "Latest News"
 ---
 
-<div class="photo-interrupt clip-right"><img src="/images/header-025.jpg" alt="" style="height: 280px; object-position: 30% 55%;"></div>
+<div class="photo-interrupt clip-right"><img src="/images/header-025.jpg" alt="Disposable camera photograph of two radio telescopes rising above a flat field at the Green Bank Observatory, West Virginia, under a heavy overcast sky. Bright mown grass in the foreground gives way to tall wild grass, with a treeline behind the telescopes. The larger dish faces upward, pale against grey." style="height: 280px; object-position: 30% 55%;"></div>
 
 <div class="news-date">2023.06</div>
 
@@ -40,7 +40,7 @@ Invited to join the [Astrosociology Research Institute](http://www.astrosociolog
 
 Held a roundtable on space ethics called: "[No 'Planet B': Multiplanetary Ethics in the Anthropocene](http://noplanetb.carrd.co)," for joint Canadian Anthropology Society Annual Meeting & 118th Annual Meeting of the American Anthropological Association in Vancouver, British Columbia. Organized with Taylor Genovese (Arizona State University).
 
-<div class="photo-interrupt clip-left"><img src="/images/gb-016.jpg" alt="" style="height: 240px; object-position: 40% 45%;"></div>
+<div class="photo-interrupt clip-left"><img src="/images/gb-016.jpg" alt="View from high on the structure of the Robert C. Byrd Green Bank Telescope, looking along a steel walkway with safety railings. The white lattice of the dish frame fills the upper frame. In the distance, a second smaller dish stands above a dense forest canopy under flat, diffuse light." style="height: 240px; object-position: 40% 45%;"></div>
 
 <div class="news-date">2019.10</div>
 
@@ -126,4 +126,4 @@ Co-organized the panel "[Making Outer Space Intimate: Familiar Scales and Strang
 
 Launched "Space+Anthropology" at [medium.com/space-anthropology](http://medium.com/space-anthropology)
 
-<div class="photo-interrupt clip-right"><img src="/images/gb-018.jpg" alt="" style="height: 260px; object-position: 55% 40%;"></div>
+<div class="photo-interrupt clip-right"><img src="/images/gb-018.jpg" alt="Photograph taken at roughly a 45-degree angle from the Robert C. Byrd Green Bank Telescope, looking down and out across the observatory grounds. Two circular mounds of grass, each topped with a small white laser alignment post, sit symmetrically in a trimmed field divided by a gravel path. Scattered conifers and scrubland stretch back toward forested hills." style="height: 260px; object-position: 55% 40%;"></div>
