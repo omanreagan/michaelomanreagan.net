@@ -4,35 +4,35 @@ title: "Latest News"
 
 <div class="photo-interrupt clip-right"><img src="/images/header-025.jpg" alt="Disposable camera photograph of two radio telescopes rising above a flat field at the Green Bank Observatory, West Virginia, under a heavy overcast sky. Bright mown grass in the foreground gives way to tall wild grass, with a treeline behind the telescopes. The larger dish faces upward, pale against grey." style="height: 280px; object-position: 30% 55%;"></div>
 
-<div class="news-date">2023.06</div>
+{{< news-date "2023-06" >}}
 
 Joined the [SETI Post-Detection Hub](https://seti.wp.st-andrews.ac.uk). The Hub is an initiative of the [UK SETI Research Network](http://seti.ac.uk/) (UKSRN), jointly hosted by the [University of St Andrews](https://www.st-andrews.ac.uk) [Centre for Exoplanet Science](http://exoplanets.wp.st-andrews.ac.uk/), the [Centre for Global Law and Governance](http://cglg.wp.st-andrews.ac.uk/), and the [Durham Law School](https://www.durham.ac.uk/departments/academic/law/).
 
-<div class="news-date">2021.05</div>
+{{< news-date "2021-05" >}}
 
 Published "Meditation on Death" in [Lithuanian Space Agency: Annual Report No. 1](https://sixchairsbooks.org/Lithuanian-Space-Agency-Annual-Report-no-1) for the [Lithuanian Space Agency's (LSA) program *Planet of People*](https://lithuanianspace.agency) at the 17th International Architecture Exhibition of La Biennale di Venezia.
 
-<div class="news-date">2020.12</div>
+{{< news-date "2020-12" >}}
 
 Interviewed for Flash Forward podcast episode on contact "[Is Anybody Out There?](https://www.flashforwardpod.com/2020/12/08/is-anybody-out-there/)"
 
-<div class="news-date">2020.11</div>
+{{< news-date "2020-11" >}}
 
 Astronomy Magazine interview "[The lonely universe: Is life on Earth just a lucky fluke?](https://astronomy.com/news/2020/11/the-lonely-universe-is-life-on-earth-just-a-lucky-fluke)"
 
-<div class="news-date">2020.07</div>
+{{< news-date "2020-07" >}}
 
 Published "[A Guided Meditation for Connecting to the Cosmos](https://humanparts.medium.com/a-guided-meditation-for-connecting-to-the-cosmos-b2ce6842fcfe)" in *Human Parts*.
 
-<div class="news-date">2020.02</div>
+{{< news-date "2020-02" >}}
 
 Published "Interstellar." In the open access book *[Anthropocene Unseen: A Lexicon](https://punctumbooks.com/titles/anthropocene-unseen-a-lexicon/)*, edited by Cymene Howe and Anand Pandian. Punctum Books.
 
-<div class="news-date">2020.01</div>
+{{< news-date "2020-01" >}}
 
 New sponsor for University of Victoria research affiliation: [Alexandrine Boudreault-Fournier](https://www.uvic.ca/socialsciences/anthropology/people/faculty/boudreault-fournieralexandrine.php), Department of Anthropology. Victoria, BC, Canada.
 
-<div class="news-date">2019.11</div>
+{{< news-date "2019-11" >}}
 
 Elected to the [SETI Permanent Committee](https://iaaseti.org), International Academy of Astronautics.
 
@@ -42,33 +42,33 @@ Held a roundtable on space ethics called: "[No 'Planet B': Multiplanetary Ethics
 
 <div class="photo-interrupt clip-left"><img src="/images/gb-016.jpg" alt="View from high on the structure of the Robert C. Byrd Green Bank Telescope, looking along a steel walkway with safety railings. The white lattice of the dish frame fills the upper frame. In the distance, a second smaller dish stands above a dense forest canopy under flat, diffuse light." style="height: 240px; object-position: 40% 45%;"></div>
 
-<div class="news-date">2019.10</div>
+{{< news-date "2019-10" >}}
 
 "[SETI and Post-Detection: Towards A New Research Roadmap](https://iafastro.directory/iac/paper/id/52210/summary/)" was presented by our main author Kathryn Denning during the 48th IAA Symposium On The Search For Extraterrestrial Intelligence at the 70th International Astronautical Congress in Washington, D.C. The paper was written with co-authors Anamaria Berea, Klara Anna Capova, Duncan Forgan, Eric Korpela, Jill C. Tarter, and Leslie I. Tennen.
 
-<div class="news-date">2019.07</div>
+{{< news-date "2019-07" >}}
 
 Founding board member of the [JustSpace Alliance](https://justspacealliance.org). Our mission is to advocate for a more inclusive and ethical future in space, and to harness visions of tomorrow for a more just and equitable world today.
 
 Submitted "[The Social Sciences Interdisciplinarity for Astronomy and Astrophysics – Lessons from the History of NASA and Related Fields](https://arxiv.org/abs/1907.07800)." An Activity, Project or State of the Profession Consideration (APC) white paper in the Decadal Survey on Astronomy and Astrophysics (Astro2020) for The National Academies of Sciences, Engineering, and Medicine. With Anamaria Berea, Kathryn Denning, Monica Vidaurri, Kimberly Arcand, Jillian Bellovary, Arsev Umur Aydinoglu, Mark Lupisella.
 
-<div class="news-date">2019.06</div>
+{{< news-date "2019-06" >}}
 
 "[The Great Colonization Debate](https://www.sciencedirect.com/science/article/pii/S0016328719300692)." published in the journal *Futures*. With Kelly C.Smith, Keith Abney, Gregory Anderson, Linda Billings, Carl L. Devito, Brian Patrick Green, Alan R. Johnson, Lori Marino, Gonzalo Munevar, Adam Potthast, James S. J. Schwartz, Koji Tachibana, John W. Traphagan, Sher Wells-Jensen.
 
-<div class="news-date">2019.02</div>
+{{< news-date "2019-02" >}}
 
 "[Politics of Planetary Reproduction and the Children of Other Worlds](https://doi.org/10.1016/j.futures.2019.02.015)." published in the journal *Futures*. Preprint available on [SocArXiv](https://osf.io/preprints/socarxiv/9aazd).
 
-<div class="news-date">2018.12</div>
+{{< news-date "2018-12" >}}
 
 "[First Contact with Possible Futures](https://culanth.org/fieldsights/first-contact-with-possible-futures)" for the "Speculative Anthropologies" series of Theorizing the Contemporary, *Cultural Anthropology* website.
 
-<div class="news-date">2018.11</div>
+{{< news-date "2018-11" >}}
 
 "Summoning AI in the Search for Extraterrestrial Intelligence" for "[Ethnographies of the Extreme](https://extremeanthropologies.carrd.co)." The 117th annual meeting of the American Anthropological Association, San Jose, California.
 
-<div class="news-date">2018.05</div>
+{{< news-date "2018-05" >}}
 
 Joined [METI International](http://www.meti.org) Advisory Council.
 
@@ -82,7 +82,7 @@ Co-organized [Making Contact](https://makingcontact2018.com) workshop with Clair
 
 Version 1.0 of "Social Science in the Search for Extraterrestrial Life and Intelligence" syllabus [available for download here](https://osf.io/8k3vb/).
 
-<div class="news-date">2018.04</div>
+{{< news-date "2018-04" >}}
 
 Gizmodo interview about [AI, deep learning, and galaxy simulations](https://gizmodo.com/ai-is-getting-pretty-good-at-studying-distant-galaxies-1825513242).
 
@@ -94,35 +94,35 @@ Gizmodo interview about [AI, deep learning, and galaxy simulations](https://gizm
 
 Breakthrough Discuss conference "[Alien Life – Diversity in the Universe](https://breakthroughinitiatives.org/events/discussconference2018)" at Stanford University in Palo Alto, California.
 
-<div class="news-date">2018.03</div>
+{{< news-date "2018-03" >}}
 
 "[Conceptualizing Difference in SETI](https://osf.io/preprints/socarxiv/whg93/)" for "[Decoding Alien Intelligence](https://daiworkshop.seti.org)" workshop. SETI Institute, Mountain View, California.
 
-<div class="news-date">2017.12</div>
+{{< news-date "2017-12" >}}
 
 "[Speculative Ethnography and First Contact with Possible Futures](https://osf.io/preprints/socarxiv/7wtmk/)" for "'Realists' of a Larger Reality: Anthropological Intersections with Science Fiction." The 116th Annual Meeting of the American Anthropological Association, Washington, D.C. (*in absentia*)
 
-<div class="news-date">2017.11</div>
+{{< news-date "2017-11" >}}
 
 WIRED magazine interview [about Silicon Valley investment in SETI](https://www.wired.com/story/yuri-milner-and-the-fellowship-of-silicon-valley-science-influencers/).
 
-<div class="news-date">2017.09</div>
+{{< news-date "2017-09" >}}
 
 "Habitable Wor(l)ds" Blumberg Summit. The John W. Kluge Center at the Library of Congress in Washington, D.C.
 
-<div class="news-date">2017.08</div>
+{{< news-date "2017-08" >}}
 
 "[Interstellar Anthropology and Cultural Infrastructures for a Spacefaring Species](https://youtu.be/Wo7MKc1KqYY)." Invited talk for Starship Congress 2017, Monterey, California.
 
-<div class="news-date">2015.12</div>
+{{< news-date "2015-12" >}}
 
 Began writing the column "Wanderers," about the anthropology of space for SAPIENS, a publication of The Wenner-Gren Foundation for Anthropological Research. New York City, New York; Denver, Colorado.
 
-<div class="news-date">2015.11</div>
+{{< news-date "2015-11" >}}
 
 Co-organized the panel "[Making Outer Space Intimate: Familiar Scales and Strange Sites](https://osf.io/preprints/socarxiv/p4r8b/)" with Kira Turner (discussant Lisa R. Messeri). Presented my paper "[Unfolding the Space Between Stars: Anthropology of the Interstellar](https://osf.io/preprints/socarxiv/r4ghb/)" at the 114th Annual Meeting of the American Anthropological Association; Denver, Colorado. 21 November.
 
-<div class="news-date">2015.04</div>
+{{< news-date "2015-04" >}}
 
 Launched "Space+Anthropology" at [medium.com/space-anthropology](http://medium.com/space-anthropology)
 

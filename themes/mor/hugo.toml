@@ -1,3 +1,11 @@
+name = "mor"
+license = "MIT"
+description = "Minimal institutional-document theme for Michael P. Oman-Reagan."
+min_version = "0.116.0"
+
+[author]
+  name = "Michael P. Oman-Reagan"
+
 [module]
-[module.hugoVersion]
-  min = "0.116.0"
+  [module.hugoVersion]
+    min = "0.116.0"

@@ -1,5 +1,5 @@
 <footer>
-  <p>{{ .Site.Copyright }}</p>
+  <p>© {{ .Site.Title }}, {{ now.Format "2006" }}.</p>
   {{ with .Site.Params.footerNote }}
   <p>{{ . }}</p>
   {{ end }}

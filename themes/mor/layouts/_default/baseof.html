@@ -12,6 +12,20 @@
   <meta property="og:url" content="{{ .Permalink }}">
   <meta property="og:type" content="website">
   <meta name="twitter:card" content="summary_large_image">
+  <script>
+    (function() {
+      try {
+        var saved = localStorage.getItem('theme');
+        var theme = saved || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'night' : 'day');
+        document.documentElement.setAttribute('data-theme', theme);
+      } catch (e) {
+        document.documentElement.setAttribute('data-theme', 'day');
+      }
+    })();
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,300;0,400;0,500;1,400&family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap">
   <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
@@ -24,31 +38,41 @@
   {{ partial "footer.html" . }}
   <script>
     (function() {
-      var btn = document.getElementById('theme-toggle');
       var root = document.documentElement;
+      var dayBtn = document.getElementById('theme-day');
+      var nightBtn = document.getElementById('theme-night');
 
-      function getSystemTheme() {
-        return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'night' : 'day';
-      }
-
-      function applyTheme(theme) {
-        root.setAttribute('data-theme', theme);
+      function renderLabels() {
+        var theme = root.getAttribute('data-theme') || 'day';
         if (theme === 'night') {
-          btn.innerHTML = '<span class="theme-inactive">DAY</span>  <span class="theme-active-night">[NIGHT]</span>';
+          dayBtn.textContent = 'DAY';
+          nightBtn.textContent = '[NIGHT]';
+          dayBtn.className = 'theme-choice theme-inactive';
+          nightBtn.className = 'theme-choice theme-active-night';
         } else {
-          btn.innerHTML = '<span class="theme-active-day">[DAY]</span>  <span class="theme-inactive">NIGHT</span>';
+          dayBtn.textContent = '[DAY]';
+          nightBtn.textContent = 'NIGHT';
+          dayBtn.className = 'theme-choice theme-active-day';
+          nightBtn.className = 'theme-choice theme-inactive';
         }
       }
 
-      var saved = localStorage.getItem('theme');
-      var active = saved || getSystemTheme();
-      applyTheme(active);
+      function setTheme(theme) {
+        try { localStorage.setItem('theme', theme); } catch (e) {}
+        root.setAttribute('data-theme', theme);
+        renderLabels();
+      }
 
-      btn.addEventListener('click', function() {
-        var current = root.getAttribute('data-theme');
-        var next = current === 'night' ? 'day' : 'night';
-        localStorage.setItem('theme', next);
-        applyTheme(next);
+      renderLabels();
+
+      dayBtn.addEventListener('click', function() { setTheme('day'); });
+      nightBtn.addEventListener('click', function() { setTheme('night'); });
+
+      dayBtn.addEventListener('keydown', function(e) {
+        if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); setTheme('day'); }
+      });
+      nightBtn.addEventListener('keydown', function(e) {
+        if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); setTheme('night'); }
       });
     })();
   </script>
