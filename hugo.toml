@@ -1,5 +1,5 @@
 baseURL = "https://michaelomanreagan.net/"
-languageCode = "en-us"
+locale = "en-us"
 title = "Michael P. Oman-Reagan"
 subtitle = "Interdisciplinary Anthropologist (M.A., PhDc)"
 
