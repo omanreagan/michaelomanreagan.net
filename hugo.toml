@@ -1,13 +1,13 @@
 baseURL = "https://michaelomanreagan.net/"
 locale = "en-us"
 title = "Michael P. Oman-Reagan"
-subtitle = "Interdisciplinary Anthropologist (M.A., PhDc)"
+subtitle = "Interdisciplinary Anthropologist"
 
 theme = "mor"
 
 [params]
   role = "Interdisciplinary Anthropologist"
-  description = "Interdisciplinary Anthropologist (M.A., PhDc)"
+  description = "Interdisciplinary Anthropologist"
   footerNote = "Research supported by SSHRC/CRSH."
 
 [menus]

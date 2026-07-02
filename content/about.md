@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-Michael P. Oman-Reagan holds B.A. degrees in four-field anthropology, interdisciplinary studies, and religion as well as an M.A. degree and Ph.D. candidacy in cultural anthropology. His [PhD research](/projects/) as a Vanier Scholar is a study of the search for life and contact in astrobiology and SETI.
+Michael P. Oman-Reagan holds B.A. degrees in four-field anthropology, interdisciplinary studies, and religion as well as an M.A. degree and Ph.D. candidacy in cultural anthropology. His [Ph.D. research](/projects/) as a Vanier Scholar is a study of the search for life and contact in astrobiology and SETI.
 
 He is a member of the [IAA](https://iaaspace.org)'s [SETI Permanent Committee](https://iaaseti.org), the [SETI Post-Detection Hub](https://seti.wp.st-andrews.ac.uk), and serves on the advisory boards for [METI International](http://meti.org) and the [Astrosociology Research Institute](http://www.astrosociology.org). Oman-Reagan was also a founding board member of the [JustSpace Alliance](https://justspacealliance.org) (2018-20) and a co-founder of [The People's Library](https://twitter.com/OWSLibrary), the library of the Occupy Wall Street social movement in New York City. Library Journal named him a [Mover and Shaker in 2012.](https://www.libraryjournal.com/?detailStory=mandy-henk-betsy-fagin-michael-oman-reagan-movers-shakers-2012-advocates)
 

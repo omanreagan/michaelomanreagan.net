@@ -4,7 +4,7 @@ title: "Contact"
 
 **Michael P. Oman-Reagan**
 
-Vanier Scholar & PhD Candidate, Memorial University, St. John's, NL Canada
+Vanier Scholar & Ph.D. Candidate, Memorial University, St. John's, NL Canada
 <script>var u="omanreagan";var h="mun.ca";document.write('<a href="'+'mail'+'to:'+u+'@'+h+'">'+u+'@'+h+'</a>');</script>
 
 &nbsp;
