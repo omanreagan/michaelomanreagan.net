@@ -54,7 +54,7 @@ Submitted "[The Social Sciences Interdisciplinarity for Astronomy and Astrophysi
 
 {{< news-date "2019-06" >}}
 
-"[The Great Colonization Debate](https://www.sciencedirect.com/science/article/pii/S0016328719300692)." published in the journal *Futures*. With Kelly C.Smith, Keith Abney, Gregory Anderson, Linda Billings, Carl L. Devito, Brian Patrick Green, Alan R. Johnson, Lori Marino, Gonzalo Munevar, Adam Potthast, James S. J. Schwartz, Koji Tachibana, John W. Traphagan, Sher Wells-Jensen.
+"[The Great Colonization Debate](https://www.sciencedirect.com/science/article/pii/S0016328719300692)." published in the journal *Futures*. With Kelly C. Smith, Keith Abney, Gregory Anderson, Linda Billings, Carl L. Devito, Brian Patrick Green, Alan R. Johnson, Lori Marino, Gonzalo Munevar, Adam Potthast, James S. J. Schwartz, Koji Tachibana, John W. Traphagan, Sheri Wells-Jensen.
 
 {{< news-date "2019-02" >}}
 
